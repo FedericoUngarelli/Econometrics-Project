@@ -22,3 +22,7 @@ Plots:
 *Normal Q-Q
 *Scale Location
 *Residuals vs. Leverage
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
