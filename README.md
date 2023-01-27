@@ -7,14 +7,14 @@ Analysis of Taylor Rule for Portugal:
 
 Structure:
 
-*Linear Regression
-*Significance Testing:
-  *Testing Homoskedasticity
-    *Breusch-Pagan Test:
-  *Testing Serial correlation
-    *Breusch-Godfrey Test
-  *Testing linearity:
-    *RESET test
+Markup :*Linear Regression
+        *Significance Testing:
+          *Testing Homoskedasticity
+            *Breusch-Pagan Test:
+          *Testing Serial correlation
+            *Breusch-Godfrey Test
+          *Testing linearity:
+            *RESET test
 
 Plots: 
 
