@@ -18,9 +18,9 @@ Structure:
 
 Plots: 
 
-	* Residual vs. Fitted
-	* Normal Q-Q
-	* Scale Location
-	* Residuals vs. Leverage
+* Residual vs. Fitted
+* Normal Q-Q
+* Scale Location
+* Residuals vs. Leverage
 
 
